@@ -78,7 +78,7 @@ if(FALSE){#@testing An optional description
 }
 ```
 
-## [`Rd`](https://github.com/RDocTaskForce/Rd) [
+## [![`Rd`](https://github.com/RDocTaskForce/Rd/raw/master/man/figures/logo.png)](https://github.com/RDocTaskForce/Rd) [
 ![Travis build status](https://travis-ci.org/RDocTaskForce/Rd.svg?branch=master)](https://travis-ci.org/RDocTaskForce/Rd) [
 ![Coverage status](https://codecov.io/gh/RDocTaskForce/Rd/branch/master/graph/badge.svg)](https://codecov.io/github/RDocTaskForce/Rd?branch=m
 aster)[
