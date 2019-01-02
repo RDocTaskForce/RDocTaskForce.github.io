@@ -60,11 +60,9 @@ Postlogic add postfix logic opperators `%if%` and `%unless%` for
 convenience.  This is used in other RDTF packages primarily for 
 conditioning verbose messages.
 
-[![`testextra`](https://github.com/RDocTaskForce/testextra/raw/master/man/figures/logo.png)
-](https://github.com/RDocTaskForce/testextra) 
+[![`testextra`](https://github.com/RDocTaskForce/testextra/raw/master/man/figures/logo.png)](https://github.com/RDocTaskForce/testextra) 
 [![Build Status](https://travis-ci.org/RDocTaskForce/testextra.svg?branch=master)](https://travis-ci.org/RDocTaskForce/testextra)
-[![Coverage](https://codecov.io/github/RDocTaskForce/testextra/coverage.svg?branch=master)](https://codecov.io/github/RDocTaskForce/testextra?
-branch=master)
+[![Coverage](https://codecov.io/github/RDocTaskForce/testextra/coverage.svg?branch=master)](https://codecov.io/github/RDocTaskForce/testextra?branch=master)
 [![CRAN version](http://www.r-pkg.org/badges/version/testextra)](https://cran.r-project.org/package=testextra)
 [![lifecycle](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://www.tidyverse.org/lifecycle/#maturing)
 
@@ -81,8 +79,7 @@ if(FALSE){#@testing An optional description
 
 [![`Rd`](https://github.com/RDocTaskForce/Rd/raw/master/man/figures/logo.png)](https://github.com/RDocTaskForce/Rd) 
 [![Travis build status](https://travis-ci.org/RDocTaskForce/Rd.svg?branch=master)](https://travis-ci.org/RDocTaskForce/Rd) 
-[![Coverage status](https://codecov.io/gh/RDocTaskForce/Rd/branch/master/graph/badge.svg)](https://codecov.io/github/RDocTaskForce/Rd?branch=m
-aster)
+[![Coverage status](https://codecov.io/gh/RDocTaskForce/Rd/branch/master/graph/badge.svg)](https://codecov.io/github/RDocTaskForce/Rd?branch=master)
 [![CRAN version](http://www.r-pkg.org/badges/version/Rd)](https://cran.r-project.org/package=Rd)
 [![lifecycle](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://www.tidyverse.org/lifecycle/#maturing)
 
@@ -102,7 +99,7 @@ The [`extendedRef`](https://github.com/RDocTaskForce/extendedRef) package
 adds private variables, static variables, and static methods to 
 reference classes.
 
-[`documentation`](https://github.com/RDocTaskForce/documentation) 
+## [`documentation`](https://github.com/RDocTaskForce/documentation) 
 [![Travis build status](https://travis-ci.org/RDocTaskForce/documentation.svg?branch=master)](https://travis-ci.org/RDocTaskForce/documentation)
 [![Coverage status](https://codecov.io/gh/RDocTaskForce/documentation/branch/master/graph/badge.svg)](https://codecov.io/github/RDocTaskForce/documentation?branch=master)
 [![CRAN version](http://www.r-pkg.org/badges/version/documentation)](https://cran.r-project.org/package=documentation)
