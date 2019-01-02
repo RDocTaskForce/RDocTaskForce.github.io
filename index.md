@@ -33,7 +33,8 @@ extracting parse data cleaner than what is obtained from the
 subsetting the parse data and identifying different components and
 structures.
 
-## [`pkgcond`](https://github.com/RDocTaskForce/pkgcond) <img src="https://github.com/RDocTaskForce/pkgcond/raw/master/man/figures/logo.png" align="right" height=140/>
+## [`pkgcond`](https://github.com/RDocTaskForce/pkgcond) 
+<img src="https://github.com/RDocTaskForce/pkgcond/raw/master/man/figures/logo.png" align="right" height=140/>
 [![Travis build status](https://travis-ci.org/RDocTaskForce/pkgcond.svg?branch=master)](https://travis-ci.org/RDocTaskForce/pkgcond)
 [![Coverage status](https://codecov.io/gh/RDocTaskForce/pkgcond/branch/master/graph/badge.svg)](https://codecov.io/github/RDocTaskForce/pkgcond?branch=master)
 [![CRAN version](http://www.r-pkg.org/badges/version/pkgcond)](https://cran.r-project.org/package=pkgcond)
@@ -60,7 +61,8 @@ Postlogic add postfix logic opperators `%if%` and `%unless%` for
 convenience.  This is used in other RDTF packages primarily for 
 conditioning verbose messages.
 
-## [`testextra`](https://github.com/RDocTaskForce/testextra) <img src="https://github.com/RDocTaskForce/testextra/raw/master/man/figures/logo.png" align="right" height=140/>
+## [`testextra`](https://github.com/RDocTaskForce/testextra) 
+<img src="https://github.com/RDocTaskForce/testextra/raw/master/man/figures/logo.png" align="right" height=140/>
 [![Build Status](https://travis-ci.org/RDocTaskForce/testextra.svg?branch=master)](https://travis-ci.org/RDocTaskForce/testextra)
 [![Coverage](https://codecov.io/github/RDocTaskForce/testextra/coverage.svg?branch=master)](https://codecov.io/github/RDocTaskForce/testextra?branch=master)
 [![CRAN version](http://www.r-pkg.org/badges/version/testextra)](https://cran.r-project.org/package=testextra)
@@ -89,7 +91,8 @@ checking and manipulation of R documentation (Rd) objects in code.
 It is similar in functio and usage to the [`htmltools`](https://cran.r-project.org/package=htmltools)
 package.
 
-## [`extendedRef`](https://github.com/RDocTaskForce/extendedRef) <img src="https://github.com/RDocTaskForce/extendedRef/raw/master/man/figures/logo.png" align="right" height=140/>
+## [`extendedRef`](https://github.com/RDocTaskForce/extendedRef) 
+<img src="https://github.com/RDocTaskForce/extendedRef/raw/master/man/figures/logo.png" align="right" height=140/>
 [![Travis build status](https://travis-ci.org/RDocTaskForce/extendedRef.svg?branch=master)](https://travis-ci.org/RDocTaskForce/extendedRef)
 [![Coverage status](https://codecov.io/gh/RDocTaskForce/extendedRef/branch/master/graph/badge.svg)](https://codecov.io/github/RDocTaskForce/extendedRef?branch=master)
 [![CRAN version](http://www.r-pkg.org/badges/version/extendedRef)](https://cran.r-project.org/package=extendedRef)
