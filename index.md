@@ -21,7 +21,7 @@ The advantages of this new documentation system are:
 
 # Packages
 
-## [![parsetools](https://github.com/RDocTaskForce/parsetools/raw/master/man/figures/logo.png)](https://github.com/RDocTaskForce/parsetools) [
+[![parsetools](https://github.com/RDocTaskForce/parsetools/raw/master/man/figures/logo.png)](https://github.com/RDocTaskForce/parsetools) [
 ![Build Status](https://travis-ci.org/RDocTaskForce/parsetools.svg?branch=master)](https://travis-ci.org/RDocTaskForce/parsetools) [
 ![Coverage](https://codecov.io/github/RDocTaskForce/parsetools/coverage.svg?branch=master)](https://codecov.io/github/RDocTaskForce/parsetools?branch=master)[
 ![CRAN version](http://www.r-pkg.org/badges/version/parsetools)](https://cran.r-project.org/package=parsetools) [
@@ -33,7 +33,7 @@ extracting parse data cleaner than what is obtained from the
 subsetting the parse data and identifying different components and
 structures.
 
-## [![`pkgcond`](https://github.com/RDocTaskForce/pkgcond/raw/master/man/figures/logo.png)](https://github.com/RDocTaskForce/pkgcond) [
+[![`pkgcond`](https://github.com/RDocTaskForce/pkgcond/raw/master/man/figures/logo.png)](https://github.com/RDocTaskForce/pkgcond) [
 ![Travis build status](https://travis-ci.org/RDocTaskForce/pkgcond.svg?branch=master)](https://travis-ci.org/RDocTaskForce/pkgcond)[
 ![Coverage status](https://codecov.io/gh/RDocTaskForce/pkgcond/branch/master/graph/badge.svg)](https://codecov.io/github/RDocTaskForce/pkgcond?branch=master)[
 ![CRAN version](http://www.r-pkg.org/badges/version/pkgcond)](https://cran.r-project.org/package=pkgcond)[
@@ -50,7 +50,7 @@ signals, respectively, with classes set to the combinations of the scope.
 The scope, while is could be set explicitly, infers where the condition is created,
 and will typically include the function call and package name.
 
-## [![`postlogic`](https://github.com/RDocTaskForce/postlogic/raw/master/man/figures/logo.png)](https://github.com/RDocTaskForce/postlogic) [
+[![`postlogic`](https://github.com/RDocTaskForce/postlogic/raw/master/man/figures/logo.png)](https://github.com/RDocTaskForce/postlogic) [
 ![Build Status](https://travis-ci.org/RDocTaskForce/postlogic.svg?branch=master)](https://travis-ci.org/RDocTaskForce/postlogic)[
 ![Coverage](https://codecov.io/github/RDocTaskForce/postlogic/coverage.svg?branch=master)](https://codecov.io/github/RDocTaskForce/postlogic?branch=master)[
 ![CRAN version](http://www.r-pkg.org/badges/version/postlogic)](https://cran.r-project.org/package=postlogic)[
@@ -60,7 +60,7 @@ Postlogic add postfix logic opperators `%if%` and `%unless%` for
 convenience.  This is used in other RDTF packages primarily for 
 conditioning verbose messages.
 
-## [![`testextra`](https://github.com/RDocTaskForce/testextra/raw/master/man/figures/logo.png)
+[![`testextra`](https://github.com/RDocTaskForce/testextra/raw/master/man/figures/logo.png)
 ](https://github.com/RDocTaskForce/testextra) [
 ![Build Status](https://travis-ci.org/RDocTaskForce/testextra.svg?branch=master)](https://travis-ci.org/RDocTaskForce/testextra)[![Coverage](https://codecov.io/github/RDocTaskForce/testextra/coverage.svg?branch=master)](https://codecov.io/github/RDocTaskForce/testextra?
 branch=master)[
@@ -78,7 +78,7 @@ if(FALSE){#@testing An optional description
 }
 ```
 
-## [![`Rd`](https://github.com/RDocTaskForce/Rd/raw/master/man/figures/logo.png)](https://github.com/RDocTaskForce/Rd) [
+[![`Rd`](https://github.com/RDocTaskForce/Rd/raw/master/man/figures/logo.png)](https://github.com/RDocTaskForce/Rd) [
 ![Travis build status](https://travis-ci.org/RDocTaskForce/Rd.svg?branch=master)](https://travis-ci.org/RDocTaskForce/Rd) [
 ![Coverage status](https://codecov.io/gh/RDocTaskForce/Rd/branch/master/graph/badge.svg)](https://codecov.io/github/RDocTaskForce/Rd?branch=m
 aster)[
@@ -91,7 +91,7 @@ checking and manipulation of R documentation (Rd) objects in code.
 It is similar in functio and usage to the [`htmltools`](https://cran.r-project.org/package=htmltools)
 package.
 
-## [![`extendedRef`](https://github.com/RDocTaskForce/extendedRef/raw/master/man/figures/logo.png)](https://github.com/RDocTaskForce/extendedRef)[
+[![`extendedRef`](https://github.com/RDocTaskForce/extendedRef/raw/master/man/figures/logo.png)](https://github.com/RDocTaskForce/extendedRef)[
 ![Travis build status](https://travis-ci.org/RDocTaskForce/extendedRef.svg?branch=master)](https://travis-ci.org/RDocTaskForce/extendedRef)[
 ![Coverage status](https://codecov.io/gh/RDocTaskForce/extendedRef/branch/master/graph/badge.svg)](https://codecov.io/github/RDocTaskForce/extendedRef?branch=master)[
 ![CRAN version](http://www.r-pkg.org/badges/version/extendedRef)](https://cran.r-project.org/package=extendedRef)[
@@ -101,7 +101,7 @@ The [`extendedRef`](https://github.com/RDocTaskForce/extendedRef) package
 adds private variables, static variables, and static methods to 
 reference classes.
 
-## [`documentation`](https://github.com/RDocTaskForce/documentation) [
+[`documentation`](https://github.com/RDocTaskForce/documentation) [
 ![Travis build status](https://travis-ci.org/RDocTaskForce/documentation.svg?branch=master)](https://travis-ci.org/RDocTaskForce/documentation)[
 ![Coverage status](https://codecov.io/gh/RDocTaskForce/documentation/branch/master/graph/badge.svg)](https://codecov.io/github/RDocTaskForce/documentation?branch=master)[
 ![CRAN version](http://www.r-pkg.org/badges/version/documentation)](https://cran.r-project.org/package=documentation)[
